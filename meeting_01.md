@@ -84,21 +84,51 @@ Introduce yourselves and your interests / skills.
 
 ## VI) Getting the Right Tools
 
-* GitHub Account [COVER HOW TO USE]
+* A good team has good tools. To improve efficiency during the hackathon, we should go over different methods will use to collaborate on work.
 
-* Atom IDE
+### Part α) Git and GitHub
+* The best way to collaborate code within a project is to use GitHub which is a version control system.
 
-* [LINUX?]
+* **Important: Make sure that you have a GitHub account and [join our
+ organization](https://GitHub.com/UntitledHackathonTeam).**
 
-* [NATE, FILL IN OTHER SOFTWARE WE MAY NEED]
+### Part β) Atom Ide
+
+* __Atom__ is a very powerful, multi-purpose IDE that is fully customizable.
+
+* With atom, we can add packages that allow us to use GitHub, Real-time Collab, Compile, and more.
+
+* [Click this link](https://atom.io/) to download Atom
+
+### Optional) Linux Subsystem or Dual-boot.
+
+* __Linux__ is an advanced and developer friendly family of operating systems that are open-source.
+
+* Most distros are free of charge and usually easy to install.
+
+* Windows 10 comes with a feature that allows you to emulate the Linux terminal called "Linux Subsystem"
+
+* Or you can go full Linux and set-up a dual boot.
+
+* Either way, we are happy to help you set up your favorite flavor (Mint) of Linux on your computer.
+
+* Just make sure to install po-util or else Nate will cry.
 
 ## VII) Moving Forward and Planning Scope
 * In order to be prepared, we must understand how to collaborate effectively.
 
-* [SPECIFY GOALS]
+* **Specify Goals:**
 
-* [SPECIFY MEETINGS REQUIRED]
+~~~
+Goals
+~~~
 
-* [PLAN MEETING TIMES]
+* Specify Meeting Times
+
+~~~
+Meeting Times
+~~~
 
 * Make sure you register for the hackathon and join our GitHub organization.
+
+> "Thanks and have fun" - Gabe Newell
