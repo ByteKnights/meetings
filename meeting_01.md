@@ -1,4 +1,4 @@
-# <span style="color:yellow">Electric Hat Hackers:</span> Meeting I
+# <span style="color:yellow">Electric Hat Hackers:</span> Kickoff Meeting
 > *Lets hack some cool shit!*
 
 ---
