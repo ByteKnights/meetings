@@ -1,35 +1,34 @@
-# <span style="color:yellow">Electric Hat Hackers:</span> Kickoff Meeting
+# <span style="color:yellow">Byte Knights:</span> Kickoff Meeting
 > *Lets hack some cool shit!*
 
 ---
 ## I) Establishing the name
 Should we keep "Electric Hat Hackers" or come up with something better? You can replace the examples below with ideas during the meeting.
-- [ ]  Electric Hat Hackers
-- [ ] Example Name One
-- [ ] Example Name Two
-- [ ] Example Name Three
+- [ ] Electric Hat Hackers
+- [x] Bite Nights
+- [ ] Ankle Byters
 
 ## II) Introductions and Skills
 Introduce yourselves and your interests / skills.
 * **Wyatt**
 ~~~~
-  Skills and Interests
+  Electrical Engineering Major and Computer Science Minor (Sophomore). Interested in electronics and programming.
 ~~~~
 * **Nathan**
 ~~~~
-  Skills and Interests
+  Computer Science Major (Freshman). Codes in many different languages, heavy linux user, maker, big deal in particle IoT community.
 ~~~~
 * **Devin**
 ~~~~
-  Skills and Interests
+  Electrical Engineering Major (Junior), can code in Python, AI, worked with sensors, circuit design.
 ~~~~
 * **Ben**
 ~~~~
-  Skills and Interests
+  Mechanical Engineering Major (Junior). Heavy interest in mathematics and thermodynamics.
 ~~~~
 * **Nova**
 ~~~~
-  Skills and Interests
+  Computer Science Major (Freshman). Codes in Python and C.  Web development. Crypt o-anarcist.
 ~~~~
 
 ## III) Lets talk about HackWITUs.
@@ -120,10 +119,10 @@ Introduce yourselves and your interests / skills.
 * **Specify Goals:**
 
 ~~~
-Goals
+  To come up with idea ASAP. Also to plan out our idea ahead of time and collaboration skills necessary.
 ~~~
 
-* Specify Meeting Times
+* **Specify Meeting Times:**
 
 ~~~
 Meeting Times
