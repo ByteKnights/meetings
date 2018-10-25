@@ -46,8 +46,8 @@ So with all of our ideas, I recommend that we use this table template below to r
 
 | Idea                      | Original (0-10)  | WOW (0-10) | Realistic (0-10) | Sum (0-30) |
 |:-------------------------:|:----------------:|:----------:|:----------------:|:----------:|
-| Idea 1                    |                  |            |                  |            |
-| Idea 2                    |                  |            |                  |            |
+| Robot plant               |3                 |6           |7                 |16          |
+| TF refrigerator/ engine   |                  |            |                  |            |
 | Idea 3                    |                  |            |                  |            |
 | Idea 4                    |                  |            |                  |            |
 | Idea 5                    |                  |            |                  |            |
