@@ -21,4 +21,4 @@
 2. Unencrypt cipher-text with private key
 3. Display unencrypted message on LCD screen
 
-![diagram](https://github.com/ByteKnights/meetings/blob/master/assets/sandbox_diagram.svg)
+![diagram](https://github.com/ByteKnights/meetings/blob/master/assets/sandbox_diagram.png)
